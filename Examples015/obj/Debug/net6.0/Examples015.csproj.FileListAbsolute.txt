@@ -1,0 +1,15 @@
+C:\Users\Huawei\OneDrive\Документы\Examples\Examples015\bin\Debug\net6.0\Examples015.exe
+C:\Users\Huawei\OneDrive\Документы\Examples\Examples015\bin\Debug\net6.0\Examples015.deps.json
+C:\Users\Huawei\OneDrive\Документы\Examples\Examples015\bin\Debug\net6.0\Examples015.runtimeconfig.json
+C:\Users\Huawei\OneDrive\Документы\Examples\Examples015\bin\Debug\net6.0\Examples015.dll
+C:\Users\Huawei\OneDrive\Документы\Examples\Examples015\bin\Debug\net6.0\Examples015.pdb
+C:\Users\Huawei\OneDrive\Документы\Examples\Examples015\obj\Debug\net6.0\Examples015.csproj.AssemblyReference.cache
+C:\Users\Huawei\OneDrive\Документы\Examples\Examples015\obj\Debug\net6.0\Examples015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\OneDrive\Документы\Examples\Examples015\obj\Debug\net6.0\Examples015.AssemblyInfoInputs.cache
+C:\Users\Huawei\OneDrive\Документы\Examples\Examples015\obj\Debug\net6.0\Examples015.AssemblyInfo.cs
+C:\Users\Huawei\OneDrive\Документы\Examples\Examples015\obj\Debug\net6.0\Examples015.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\OneDrive\Документы\Examples\Examples015\obj\Debug\net6.0\Examples015.dll
+C:\Users\Huawei\OneDrive\Документы\Examples\Examples015\obj\Debug\net6.0\refint\Examples015.dll
+C:\Users\Huawei\OneDrive\Документы\Examples\Examples015\obj\Debug\net6.0\Examples015.pdb
+C:\Users\Huawei\OneDrive\Документы\Examples\Examples015\obj\Debug\net6.0\Examples015.genruntimeconfig.cache
+C:\Users\Huawei\OneDrive\Документы\Examples\Examples015\obj\Debug\net6.0\ref\Examples015.dll
